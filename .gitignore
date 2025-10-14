@@ -1,2 +1,6 @@
 **/solutions/
 **/eurosat/
+pyproject.toml
+.gitignore
+
+uv.lock
